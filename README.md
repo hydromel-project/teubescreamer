@@ -22,10 +22,9 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/hydromel-project/teubescreamer
     cd TeubeCreamer
     ```
-    (Replace `<repository_url>` with the actual URL of your Git repository)
 
 2.  **Locate Projucer:**
     Make a note of the path to your Projucer application. The build script (`build.ps1` for Windows) might need this, or you might run Projucer manually.
@@ -81,4 +80,4 @@ Before you begin, ensure you have the following installed:
 
 ## License
 
-[Details about the project's license can be added here later.] 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 
